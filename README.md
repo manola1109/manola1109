@@ -1,7 +1,7 @@
 👋 **Hi, I'm Deepak Singh Manola**
 **Data Scientist | Machine Learning Engineer | Generative AI Enthusiast**
 
-I am a Data Scientist with expertise in Machine Learning, Deep Learning, Generative AI, and Cloud Computing. My journey in data science has been shaped by a passion for innovation and a drive to use technology to solve complex business problems.
+I am an asiring Data Scientist with expertise in Machine Learning, Deep Learning, Generative AI, and Cloud Computing. My journey in data science has been shaped by a passion for innovation and a drive to use technology to solve complex business problems.
 
 I have a solid foundation in designing and deploying scalable AI solutions, with hands-on experience across several industries, including Telecom, Retail, and Healthcare. I specialize in applying machine learning algorithms, neural networks, and natural language processing (NLP) to automate tasks, improve decision-making, and drive digital transformation.
 
@@ -45,15 +45,6 @@ Microsoft Azure: Azure Data Lake, Azure AI Search, Azure Machine Learning, Azure
 AWS: Sagemaker, Lambda, EC2, S3, and AWS AI Services.
 Docker & Kubernetes: For containerization and orchestration of ML models.
 
-**💻 Projects & Experience**
-1. AI-Powered Medical Avatar (UAE-based Project for GITEX)
-Developed an advanced Generative AI-driven medical avatar capable of providing health insights and recommendations, deployed using Azure AI services.
-
-2. Data Migration & Search Optimization (Department of Government Enablement)
-Led a project to migrate content from Sitecore CMS to Azure Data Lake, enhancing data management and deploying Azure AI Search for improved information retrieval.
-
-3. Sales Forecasting & Recommendation Engine (Retail Sector)
-Built a machine learning model to predict sales trends and optimize product recommendations for a retail client, improving customer engagement and revenue.
 
 **🚀 What I'm Looking For**
 
