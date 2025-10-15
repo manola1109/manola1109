@@ -1,60 +1,156 @@
-👋 **Hi, I'm Deepak Singh Manola**
-**Data Scientist | Machine Learning Engineer | Generative AI Enthusiast**
+<div align="center">
 
-I am an asiring Data Scientist with expertise in Machine Learning, Deep Learning, Generative AI, and Cloud Computing. My journey in data science has been shaped by a passion for innovation and a drive to use technology to solve complex business problems.
+# 👋 Hi, I'm **Deepak Singh Manola** 🚀
 
-I have a solid foundation in designing and deploying scalable AI solutions, with hands-on experience across several industries, including Telecom, Retail, and Healthcare. I specialize in applying machine learning algorithms, neural networks, and natural language processing (NLP) to automate tasks, improve decision-making, and drive digital transformation.
+### 💼 Data Scientist | Machine Learning Engineer | Generative AI Enthusiast
 
-**🛠️ Skills & Expertise**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-m-ab0a1030/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak.singh.m@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/manola1109?style=for-the-badge&logo=github)](https://github.com/manola1109)
+[![GitHub Stars](https://img.shields.io/github/stars/manola1109?style=for-the-badge&logo=github)](https://github.com/manola1109?tab=repositories)
 
-**📊 Data Science & Machine Learning**
-Data Wrangling & Preprocessing: Skilled in cleaning, transforming, and preparing large datasets for analysis.
-Machine Learning: Experience with supervised and unsupervised learning, regression models, classification, clustering, and more.
-Deep Learning: Building and training neural networks for tasks such as image recognition, text generation, and anomaly detection.
-Natural Language Processing (NLP): Developing NLP pipelines for text analysis, sentiment analysis, and chatbot applications.
+---
 
-**🤖 Generative AI & LLMs**
-Generative AI: Experience in building applications using large language models (LLMs), including text generation, content creation, and automation of tasks.
-Prompt Engineering: Skilled in fine-tuning and optimizing LLMs for specific use cases.
-Neural Networks: Expertise in building architectures like Transformers for language models and CNNs for image analysis.
+</div>
 
-**☁️ Cloud Platforms & Technologies**
-Azure AI & AWS: Proficient in designing, deploying, and managing cloud-based AI services, with experience in Azure Data Lake, Azure AI Search, AWS Sagemaker, and AWS Lambda.
-Cloud Migration: Expertise in migrating and managing data pipelines, AI models, and databases on cloud platforms.
-Big Data: Familiarity with tools like Azure Databricks, Apache Spark, and Hadoop for handling large datasets.
+## 🌟 About Me
 
-**🛠️ Tools & Technologies**
+I am an **aspiring Data Scientist** with deep expertise in **Machine Learning**, **Deep Learning**, **Generative AI**, and **Cloud Computing**. My journey in data science has been shaped by a passion for innovation and a relentless drive to leverage technology to solve complex business problems.
+
+With a solid foundation in designing and deploying **scalable AI solutions**, I bring hands-on experience across multiple industries:
+- 📱 **Telecom** - Building predictive models and customer analytics
+- 🛒 **Retail** - Developing recommendation systems and demand forecasting
+- 🏥 **Healthcare** - Implementing ML solutions for patient care optimization
+
+I specialize in applying cutting-edge machine learning algorithms, neural networks, and **Natural Language Processing (NLP)** to automate tasks, enhance decision-making, and drive digital transformation across organizations.
+
+---
+
+## 🛠️ Skills & Expertise
+
+### 📊 Data Science & Machine Learning
+- 🧹 **Data Wrangling & Preprocessing**: Expert in cleaning, transforming, and preparing large-scale datasets
+- 🤖 **Machine Learning**: Proficient in supervised/unsupervised learning, regression, classification, clustering
+- 🧠 **Deep Learning**: Building neural networks for image recognition, text generation, and anomaly detection
+- 💬 **Natural Language Processing**: Developing NLP pipelines for text analysis, sentiment analysis, and chatbots
+
+### 🤖 Generative AI & LLMs
+- ✨ **Generative AI**: Building applications with LLMs for text generation, content creation, and task automation
+- 🎯 **Prompt Engineering**: Fine-tuning and optimizing LLMs for specific business use cases
+- 🏗️ **Neural Network Architectures**: Transformers for language models, CNNs for image analysis
+- 🔗 **LangChain**: Creating AI-driven workflows and intelligent agents
+
+### ☁️ Cloud Platforms & Technologies
+- ☁️ **Microsoft Azure**: Azure Data Lake, Azure AI Search, Azure Machine Learning, Azure DevOps
+- 🔶 **AWS**: SageMaker, Lambda, EC2, S3, AWS AI Services
+- 🚚 **Cloud Migration**: Expertise in migrating data pipelines, AI models, and databases to cloud
+- 📊 **Big Data**: Azure Databricks, Apache Spark, Hadoop for large-scale data processing
+
+### 🛠️ Tools & Technologies
 
 **Programming Languages:**
-Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
-SQL (MySQL, PostgreSQL, MongoDB)
-R (basic understanding for statistical analysis)
+- 🐍 **Python**: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
+- 🗄️ **SQL**: MySQL, PostgreSQL, MongoDB
+- 📈 **R**: Statistical analysis and data modeling
 
 **Machine Learning & AI Libraries:**
-Scikit-learn: For implementing machine learning algorithms.
-TensorFlow & PyTorch: For building deep learning models.
-Hugging Face: For working with pre-trained models and NLP tasks.
-Langchain: For building AI-driven workflows.
+- 📚 **Scikit-learn**: Implementing ML algorithms
+- 🔥 **TensorFlow & PyTorch**: Building deep learning models
+- 🤗 **Hugging Face**: Working with pre-trained models and NLP
+- 🦜 **LangChain**: Building AI-driven workflows and agents
 
-**Data Visualization & BI Tools:**
-Tableau, Power BI: For interactive dashboards and data visualization.
-Matplotlib, Seaborn: For custom data visualizations in Python.
+**Data Visualization & BI:**
+- 📊 **Tableau, Power BI**: Interactive dashboards and data visualization
+- 📉 **Matplotlib, Seaborn**: Custom Python visualizations
 
-**Cloud & DevOps:**
-Microsoft Azure: Azure Data Lake, Azure AI Search, Azure Machine Learning, Azure DevOps.
-AWS: Sagemaker, Lambda, EC2, S3, and AWS AI Services.
-Docker & Kubernetes: For containerization and orchestration of ML models.
+**DevOps & Containers:**
+- 🐳 **Docker**: Containerization of ML models
+- ☸️ **Kubernetes**: Orchestration and scaling
+- 🔄 **CI/CD**: Azure DevOps, GitHub Actions
 
+---
 
-**🚀 What I'm Looking For**
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manola1109&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manola1109&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 [PromptEngineering-LangChain-ChatGPT](https://github.com/manola1109/PromptEngineering-LangChain-ChatGPT)
+Exploring advanced prompt engineering techniques with LangChain and ChatGPT. Building intelligent AI agents and workflows for automation and content generation.
+
+### 💡 Other Notable Projects
+- 🧪 **Machine Learning Experiments**: Various ML models and algorithms
+- 📊 **Data Analysis Projects**: Real-world data science case studies
+- 🤖 **AI/ML Solutions**: End-to-end ML pipelines and deployments
+
+> 💼 **52 Repositories** | 🌟 Explore my work on [GitHub](https://github.com/manola1109?tab=repositories)
+
+---
+
+## 🎯 What I'm Looking For
 
 I am eager to contribute to projects that challenge me to think critically and innovate with cutting-edge AI technologies. I am especially interested in:
-Generative AI applications
-Scalable AI solutions in the cloud
-Data Science for business optimization and automation
 
-**📫 Get in Touch**
-Email: deepak.singh.m@gmail.com
-LinkedIn:https://www.linkedin.com/in/deepak-m-ab0a1030/
+- ✨ **Generative AI applications** and LLM-powered solutions
+- ☁️ **Scalable AI solutions in the cloud** (Azure, AWS)
+- 📊 **Data Science for business optimization** and automation
+- 🤝 **Collaborative projects** pushing the boundaries of AI/ML
 
+---
 
+## 📫 Get in Touch
+
+<div align="center">
+
+### Let's Connect! 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-m-ab0a1030/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak.singh.m@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manola1109)
+
+📧 **Email**: deepak.singh.m@gmail.com  
+💼 **LinkedIn**: [deepak-m-ab0a1030](https://www.linkedin.com/in/deepak-m-ab0a1030/)  
+🌐 **GitHub**: [manola1109](https://github.com/manola1109)
+
+</div>
+
+---
+
+## 💡 Call to Action
+
+<div align="center">
+
+### 🌟 Interested in Collaboration?
+
+**I'm always open to exciting opportunities in:**
+- 🤖 Generative AI & LLM Applications
+- 📊 Data Science & Machine Learning Projects
+- ☁️ Cloud-Native AI Solutions
+- 🚀 Open Source Contributions
+
+**Let's build something amazing together!** 💪
+
+[![Reach Out](https://img.shields.io/badge/Let's_Collaborate-Reach_Out-success?style=for-the-badge)](mailto:deepak.singh.m@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌈 "Innovation distinguishes between a leader and a follower" - Steve Jobs
+
+⭐ **Feel free to star my repositories if you find them useful!** ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=manola1109&color=brightgreen&style=for-the-badge)
+
+</div>
